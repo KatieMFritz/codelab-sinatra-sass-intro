@@ -1,11 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    autoprefixer-rails (6.0.3)
-      execjs
-      json
-    execjs (2.6.0)
-    json (1.8.3)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
@@ -18,8 +13,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
-  autoprefixer-rails
   sass
   sinatra (~> 1.4.6)
+
+BUNDLED WITH
+   1.10.6

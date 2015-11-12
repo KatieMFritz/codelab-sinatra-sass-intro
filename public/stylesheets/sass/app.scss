@@ -15,6 +15,12 @@ $border-radius-large: 10px;
 $brand-primary: #009933;
 $brand-success: #00cc44;
 $text-muted: #ddd;
+//new variables
+$nav-tabs-link-hover-border-color: $jumbotron-bg;
+$font-family-sans-serif: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+$headings-font-weight:  700;
+$font-size-base: 16px;
+$nav-pills-border-radius: $border-radius-small;
 
 // These styles are imported from Bootstrap.
 @import 'bootstrap';

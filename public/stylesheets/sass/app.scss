@@ -2,19 +2,19 @@
 // You can find more information about these and other Bootstrap variables at:
 // http://getbootstrap.com/customize/#less-variables
 
-// $container-tablet: PIXEL-SIZE;
-// $container-desktop: PIXEL-SIZE;
-// $container-large-desktop: PIXEL-SIZE;
-// $body-bg: COLOR;
-// $jumbotron-bg: COLOR;
-// $jumbotron-heading-font-size: PIXEL-SIZE;
-// $jumbotron-font-size: PIXEL-SIZE;
-// $border-radius-base: PIXEL-SIZE;
-// $border-radius-small: PIXEL-SIZE;
-// $border-radius-large: PIXEL-SIZE;
-// $brand-primary: COLOR;
-// $brand-success: COLOR;
-// $text-muted: COLOR;
+$container-tablet: 720px;
+$container-desktop: 1000px;
+$container-large-desktop: 1200px;
+$body-bg: #6600cc;
+$jumbotron-bg: #efefef;
+$jumbotron-heading-font-size: 36px;
+$jumbotron-font-size: 18px;
+$border-radius-base: 8px;
+$border-radius-small: 4px;
+$border-radius-large: 10px;
+$brand-primary: #009933;
+$brand-success: #00cc44;
+$text-muted: #ddd;
 
 // These styles are imported from Bootstrap.
 @import 'bootstrap';

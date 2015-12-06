@@ -35,7 +35,7 @@ $nav-pills-border-radius: $border-radius-small;
   // 20 pixels the left and right of it.
   $box-shadow: 20px 0 0, -20px 0 0 !global;
   box-shadow: $box-shadow, darken($body-bg, 10%);
-  footer {
+  & > footer {
     padding: 30px 0;
   }
 }
